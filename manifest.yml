@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: simonIOTCar
-  host: simonIOTCar
+  name: simonIOTCars
+  host: simonIOTCars
   disk_quota: 1024M
